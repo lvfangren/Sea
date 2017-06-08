@@ -1,0 +1,46 @@
+main{
+    background-color: #f5f5f5;
+    display: block;
+    position: relative;
+    height: 600px;
+}
+
+.mdl-layout__header
+{
+  color: #808080;
+  font-size: 20em;
+}
+.mdl-layout-space
+{
+/*  width: 600px;*/
+  width: 52%;
+}
+.pseudo-paragraph
+{
+  min-height:400px;
+}
+div .container
+{
+    padding: 10px;
+}
+.center{
+  height: 500px;
+  margin: 0px auto;
+}
+/*.center .pic{
+  overflow: hidden;
+}
+#picbox{
+  height: 500px;
+  margin: 0px auto;
+}*/
+
+#lv{
+  overflow: hidden;
+}
+
+.portfolio-max-width{
+    width: 92%;
+}
+
+img { max-width: 100%;}
