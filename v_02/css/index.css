@@ -4,7 +4,6 @@ main{
     position: relative;
     height: 600px;
 }
-
 .mdl-layout__header
 {
   color: #808080;
@@ -29,11 +28,11 @@ div .container
 }
 /*.center .pic{
   overflow: hidden;
-}
-#picbox{
-  height: 500px;
-  margin: 0px auto;
 }*/
+#picbox{
+  /*height: 500px;*/
+  margin: 0px auto;
+}
 
 #lv{
   overflow: hidden;
@@ -42,5 +41,4 @@ div .container
 .portfolio-max-width{
     width: 92%;
 }
-
 img { max-width: 100%;}

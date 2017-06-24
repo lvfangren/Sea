@@ -11,9 +11,14 @@ text-align: center;
 margin: 0px auto;
 margin-bottom:5%;
 }
+.change-text{
+  width: 1100px;
+  height: 104px;
+  text-indent: 35px;
+}
 .show{
   padding-left:5%;
-  text-align: center;
+  text-align: left;
   width: 90%;
 }
 .pich{
