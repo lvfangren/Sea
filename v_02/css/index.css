@@ -8,6 +8,7 @@ main{
 {
   color: #808080;
   font-size: 20em;
+  opacity: 0.8;
 }
 .mdl-layout-space
 {
@@ -24,7 +25,8 @@ div .container
 }
 .center{
   height: 500px;
-  margin: 0px auto;
+  width: 100%;
+  /*margin: 0px auto;*/
 }
 /*.center .pic{
   overflow: hidden;
@@ -39,6 +41,6 @@ div .container
 }
 
 .portfolio-max-width{
-    width: 92%;
+    width: 90%;
 }
 img { max-width: 100%;}
